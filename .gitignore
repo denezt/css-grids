@@ -1,0 +1,7 @@
+temp/
+tmp/
+*.cnf
+*.conf
+*.config
+*.log
+*.html
